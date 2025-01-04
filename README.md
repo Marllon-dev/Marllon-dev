@@ -2,7 +2,7 @@
 
 
 [![Insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marllon10p/)
-[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marllon-kauan-5795b5329/)
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marllon-kauan-5795b5329/ target=_blank)
 
 ![Marllon Kauan GitHub stats](https://github-readme-stats.vercel.app/api?username=Marllon-dev&show_icons=true&theme=dracula)
 
